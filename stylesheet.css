@@ -1,0 +1,11 @@
+#banner{
+    background-color: black;
+    color: white;
+    height: 5em;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+}
+.card{
+    margin-top: 1em;
+}
